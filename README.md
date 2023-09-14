@@ -29,7 +29,7 @@ Topics:
 
 Lessons:
 - [Dice Game](./DiceGame)
-- [Business Rules Challenge](./businessRulesChallenge)
+- [Discount Challenge](./discountChallenge)
 
 Projects:
 
