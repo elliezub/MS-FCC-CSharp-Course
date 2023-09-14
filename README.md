@@ -1,2 +1,63 @@
-# MS-FCC-CSharp-Course
-This is a repo of all of the notes/code from the Microsoft C# course.
+# Microsoft FCC C# Course Repository
+
+Welcome to my C# course repository! This repository contains my projects, lessons, and assignments for the Microsoft FCC C# Course.
+
+## Table of Contents
+
+1. [Write Your First Code Using C#](#write-your-first-code-using-c)
+2. [Create and Run Simple C# Console Applications](#create-and-run-simple-c-console-applications)
+3. [Add Logic to C# Console Applications](#add-logic-to-c-console-applications)
+4. [Work with Variable Data in C# Console Applications](#work-with-variable-data-in-c-console-applications)
+5. [Create Methods in C# Console Applications](#create-methods-in-c-console-applications)
+6. [Debug C# Console Applications](#debug-c-console-applications)
+7. [Foundational C# with Microsoft Certification Exam](#foundational-c-with-microsoft-certification-exam)
+
+## Write Your First Code Using C#
+
+Topics:
+- Console.WriteLine()
+- Basic string formatting
+- Basic operations
+
+## Create and Run Simple C# Console Applications
+
+Topics:
+- Configure VS code
+- if/else/else if statements
+- Arrays/for each
+- Readable code
+
+- [Dice Game](./DiceGame)
+- [Business Rules Challenge](./businessRulesChallenge)
+
+## Add Logic to C# Console Applications
+
+Unlock the power of logic in C# console applications. Learn how to add logic and decision-making capabilities to your code, enabling your applications to make dynamic choices and respond intelligently to different scenarios.
+
+## Work with Variable Data in C# Console Applications
+
+Discover the versatility of variable data in C# console applications. Harness the ability to store and manipulate different types of data, such as numbers and text, as you delve into the essential concepts of variables and data handling.
+
+## Create Methods in C# Console Applications
+
+Take your C# console applications to the next level by mastering the art of creating methods. Learn how to organize and modularize your code, making it more manageable, reusable, and efficient.
+
+## Debug C# Console Applications
+
+Sharpen your troubleshooting skills as you dive into the world of debugging C# console applications. Gain the ability to identify and fix issues in your code, ensuring your applications run smoothly and deliver the desired results.
+
+## Foundational C# with Microsoft Certification Exam
+
+
+## Usage
+
+Each folder in this repository represents a different lesson or project. Navigate to the respective folder to view the code and its associated README (if available) for more details.
+
+## Contributing
+
+While this repository is primarily for personal use, feedback, and suggestions are welcome. Please open an issue or submit a pull request.
+
+
+
+
+
