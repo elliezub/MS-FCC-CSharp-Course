@@ -35,8 +35,11 @@ Lessons:
 - [Discount Challenge](./discountChallenge)
 - [Order IDs](./orderIDs)
 - [Inventory](./inventory/)
+- [Guided grades project](./guided-project-foreach/)
 
 Projects:
+
+<!-- - [Student Grades Project] -->
 
 ## Add Logic to C# Console Applications
 
