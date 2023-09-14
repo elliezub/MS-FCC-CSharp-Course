@@ -27,8 +27,11 @@ Topics:
 - Arrays/for each
 - Readable code
 
+Lessons:
 - [Dice Game](./DiceGame)
 - [Business Rules Challenge](./businessRulesChallenge)
+
+Projects:
 
 ## Add Logic to C# Console Applications
 
