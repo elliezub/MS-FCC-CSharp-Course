@@ -15,6 +15,7 @@ Welcome to my C# course repository! This repository contains my projects, lesson
 ## Write Your First Code Using C#
 
 Topics:
+
 - Console.WriteLine()
 - Basic string formatting
 - Basic operations
@@ -22,15 +23,18 @@ Topics:
 ## Create and Run Simple C# Console Applications
 
 Topics:
+
 - Configure VS code
 - if/else/else if statements
 - Arrays/Length property/foreach
 - Readable code
 
 Lessons:
+
 - [Dice Game](./DiceGame)
 - [Discount Challenge](./discountChallenge)
 - [Order IDs](./orderIDs)
+- [Inventory](./inventory/)
 
 Projects:
 
@@ -52,7 +56,6 @@ Sharpen your troubleshooting skills as you dive into the world of debugging C# c
 
 ## Foundational C# with Microsoft Certification Exam
 
-
 ## Usage
 
 Each folder in this repository represents a different lesson or project. Navigate to the respective folder to view the code and its associated README (if available) for more details.
@@ -60,8 +63,3 @@ Each folder in this repository represents a different lesson or project. Navigat
 ## Contributing
 
 While this repository is primarily for personal use, feedback, and suggestions are welcome. Please open an issue or submit a pull request.
-
-
-
-
-
