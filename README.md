@@ -27,7 +27,7 @@ Topics:
 - Configure VS code
 - if/else/else if statements
 - Arrays/Length property/foreach
-- Readable code
+- Readable code/naming conventions
 
 Lessons:
 
