@@ -1,0 +1,24 @@
+# Directories
+bin/
+obj/
+_ReSharper*/
+.idea/
+.vscode/
+
+# Files
+*.user
+*.rsuser
+*.suo
+Thumbs.db
+.DS_Store
+*.tmp
+*.bak
+*.log
+*.dll
+*.exe
+*.pdb
+*.nupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+*.lnk

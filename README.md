@@ -24,7 +24,7 @@ Topics:
 Topics:
 - Configure VS code
 - if/else/else if statements
-- Arrays/for each
+- Arrays/Length property/foreach
 - Readable code
 
 Lessons:
