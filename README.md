@@ -30,6 +30,7 @@ Topics:
 Lessons:
 - [Dice Game](./DiceGame)
 - [Discount Challenge](./discountChallenge)
+- [Order IDs](./orderIDs)
 
 Projects:
 
