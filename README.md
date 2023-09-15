@@ -50,9 +50,8 @@ Topics:
 
 Lessons:
 
-- [Boolean Expressions]()
-- [Coin flip Challenge]()
-
+- [Boolean Expressions](./Section3-AddLogic/booleanPractice/)
+- [Coin flip Challenge](./Section3-AddLogic/CoinFlip/)
 
 Projects:
 
