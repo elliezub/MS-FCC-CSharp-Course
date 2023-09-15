@@ -39,7 +39,7 @@ Lessons:
 
 Projects:
 
-- [Student Grades Project](./grades-challenge-project/Starter/Program.cs)
+- [Student Grades Project](./grades-challenge-project/ChallengeProject/Starter/Program.cs)
 
 ## Add Logic to C# Console Applications
 
