@@ -52,6 +52,7 @@ Lessons:
 
 - [Boolean Expressions](./Section3-AddLogic/booleanPractice/)
 - [Coin flip Challenge](./Section3-AddLogic/CoinFlip/)
+- [Business Rules Challenge](./Section3-AddLogic/businessRules/)
 
 Projects:
 
