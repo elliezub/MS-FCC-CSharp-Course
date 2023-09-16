@@ -64,6 +64,7 @@ Lessons/Practice:
 - [For Loop Practice](./Section3-AddLogic/forPractice/)
 - [FizzBuzz Challenge](./Section3-AddLogic/fizzBuzzChallenge/)
 - [do-while/while Practice](./Section3-AddLogic/doWhilePractice/)
+- [Game Rules Challenge](./Section3-AddLogic/gameRulesChallenge/)
 
 Challenge Project:
 
