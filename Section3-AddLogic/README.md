@@ -29,3 +29,4 @@ Projects:
 - [Project 1 - Valid Number](./project1/)
 - [Project 2 - Valid User](./project2/)
 - [Project 3 - Substring](./project3/)
+- [Final Project - Contoso Pets Application](./Challenge-project-branching-looping-CSharp-main/ChallengeProject/Starter/Program.cs)

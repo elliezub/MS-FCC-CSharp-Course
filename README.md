@@ -72,6 +72,7 @@ Projects:
 - [Project 1 - Valid Number](./Section3-AddLogic/project1/)
 - [Project 2 - Valid User](./Section3-AddLogic/project2/)
 - [Project 3 - Substring](./Section3-AddLogic/project3/)
+- [Final Project - Contoso Pets Application](./Section3-AddLogic/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Starter/Program.cs)
 
 ## Work with Variable Data in C# Console Applications
 
