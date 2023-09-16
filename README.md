@@ -49,6 +49,7 @@ Topics:
 - Conditional operator ?:
 - Variable scope
 - switch-case construct
+- for statements
 
 Lessons:
 
@@ -59,6 +60,7 @@ Lessons:
 - [Variable Scope Challenge](./Section3-AddLogic/variableScopeChallenge/)
 - [Switch Practice](./Section3-AddLogic/switchPractice/)
 - [Switch Challenge](./Section3-AddLogic/switchChallenge/)
+- [For Loop Practice](./Section3-AddLogic/forPractice/)
 
 Projects:
 
