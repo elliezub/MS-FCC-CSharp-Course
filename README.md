@@ -53,6 +53,8 @@ Lessons:
 - [Boolean Expressions](./Section3-AddLogic/booleanPractice/)
 - [Coin flip Challenge](./Section3-AddLogic/CoinFlip/)
 - [Business Rules Challenge](./Section3-AddLogic/businessRules/)
+- [Code Block Practice](./Section3-AddLogic/codeBlockPractice/)
+- [Variable Scope Challenge](./Section3-AddLogic/variableScopeChallenge/)
 
 Projects:
 
