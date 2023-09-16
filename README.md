@@ -29,7 +29,7 @@ Topics:
 - Arrays/Length property/foreach
 - Readable code/naming conventions
 
-Lessons/Practice:
+Lessons/Practice Challenges:
 
 - [Dice Game](./Section2-SimpleCSharpConsoleApp/DiceGame/)
 - [Discount Challenge](./Section2-SimpleCSharpConsoleApp/discountChallenge/)
@@ -37,7 +37,7 @@ Lessons/Practice:
 - [Inventory](./Section2-SimpleCSharpConsoleApp/inventory)
 - [Guided Grades Project](./Section2-SimpleCSharpConsoleApp/guided-project-foreach)
 
-Challenge Project:
+Project:
 
 - [Student Grades Project](./Section2-SimpleCSharpConsoleApp/grades-challenge-project/ChallengeProject/Starter/Program.cs)
 
@@ -52,7 +52,7 @@ Topics:
 - for loops
 - do-while/while statements
 
-Lessons/Practice:
+Lessons/Practice Challenges:
 
 - [Boolean Expressions](./Section3-AddLogic/booleanPractice/)
 - [Coin flip Challenge](./Section3-AddLogic/CoinFlip/)
@@ -66,7 +66,7 @@ Lessons/Practice:
 - [do-while/while Practice](./Section3-AddLogic/doWhilePractice/)
 - [Game Rules Challenge](./Section3-AddLogic/gameRulesChallenge/)
 
-Challenge Project:
+Projects:
 
 ## Work with Variable Data in C# Console Applications
 
