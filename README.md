@@ -61,6 +61,7 @@ Lessons:
 - [Switch Practice](./Section3-AddLogic/switchPractice/)
 - [Switch Challenge](./Section3-AddLogic/switchChallenge/)
 - [For Loop Practice](./Section3-AddLogic/forPractice/)
+- [FizzBuzz Challenge](./Section3-AddLogic/fizzBuzzChallenge/)
 
 Projects:
 
