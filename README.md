@@ -47,6 +47,8 @@ Topics:
 
 - Boolean expressions
 - Conditional operator ?:
+- Variable scope
+- switch-case construct
 
 Lessons:
 
