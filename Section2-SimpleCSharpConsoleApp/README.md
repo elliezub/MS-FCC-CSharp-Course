@@ -7,7 +7,7 @@ Topics:
 - Arrays/Length property/foreach
 - Readable code/naming conventions
 
-Lessons:
+Lessons/Practice:
 
 - [Dice Game](./DiceGame/)
 - [Discount Challenge](./discountChallenge/)
@@ -15,6 +15,6 @@ Lessons:
 - [Inventory](./inventory)
 - [Guided Grades Project](./guided-project-foreach/)
 
-Projects:
+Challenge Project:
 
 - [Student Grades Project](./grades-challenge-project/ChallengeProject/Starter/Program.cs)
