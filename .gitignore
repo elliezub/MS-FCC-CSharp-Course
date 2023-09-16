@@ -22,3 +22,6 @@ project.lock.json
 project.fragment.lock.json
 artifacts/
 *.lnk
+
+# notes
+/notes.txt
