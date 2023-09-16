@@ -26,3 +26,4 @@ Lessons/Practice Challenges:
 Projects:
 
 - [Project 1 - Valid Number](./project1/)
+- [Project 2 - Valid User](./project2/)

@@ -69,6 +69,7 @@ Lessons/Practice Challenges:
 Projects:
 
 - [Project 1 - Valid Number](./Section3-AddLogic/project1/)
+- [Project 2 - Valid User](./Section3-AddLogic/project2/)
 
 ## Work with Variable Data in C# Console Applications
 
