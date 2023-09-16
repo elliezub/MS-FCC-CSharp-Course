@@ -65,7 +65,7 @@ Lessons/Practice Challenges:
 - [FizzBuzz Challenge](./Section3-AddLogic/fizzBuzzChallenge/)
 - [do-while/while Practice](./Section3-AddLogic/doWhilePractice/)
 - [Game Rules Challenge](./Section3-AddLogic/gameRulesChallenge/)
-- [Guided Animal Project](./Section3-AddLogic/Guided-project-branching-looping-CSharp-main/)
+- [Guided Animal Project](./Section3-AddLogic/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/Program.cs)
 
 Projects:
 

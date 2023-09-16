@@ -22,7 +22,7 @@ Lessons/Practice Challenges:
 - [FizzBuzz Challenge](./fizzBuzzChallenge/)
 - [do-while/while Practice](./doWhilePractice/)
 - [Game Rules Challenge](./gameRulesChallenge/)
-- [Guided Animal Project](./Guided-project-branching-looping-CSharp-main/)
+- [Guided Animal Project](./Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/Program.cs)
 
 Projects:
 
