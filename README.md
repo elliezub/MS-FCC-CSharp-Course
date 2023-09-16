@@ -57,6 +57,8 @@ Lessons:
 - [Business Rules Challenge](./Section3-AddLogic/businessRules/)
 - [Code Block Practice](./Section3-AddLogic/codeBlockPractice/)
 - [Variable Scope Challenge](./Section3-AddLogic/variableScopeChallenge/)
+- [Switch Practice](./Section3-AddLogic/switchPractice/)
+- [Switch Challenge](./Section3-AddLogic/switchChallenge/)
 
 Projects:
 
