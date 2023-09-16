@@ -65,11 +65,13 @@ Lessons/Practice Challenges:
 - [FizzBuzz Challenge](./Section3-AddLogic/fizzBuzzChallenge/)
 - [do-while/while Practice](./Section3-AddLogic/doWhilePractice/)
 - [Game Rules Challenge](./Section3-AddLogic/gameRulesChallenge/)
+- [Guided Animal Project](./Section3-AddLogic/Guided-project-branching-looping-CSharp-main/)
 
 Projects:
 
 - [Project 1 - Valid Number](./Section3-AddLogic/project1/)
 - [Project 2 - Valid User](./Section3-AddLogic/project2/)
+- [Project 3 - Substring](./Section3-AddLogic/project3/)
 
 ## Work with Variable Data in C# Console Applications
 

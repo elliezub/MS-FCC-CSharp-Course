@@ -22,8 +22,10 @@ Lessons/Practice Challenges:
 - [FizzBuzz Challenge](./fizzBuzzChallenge/)
 - [do-while/while Practice](./doWhilePractice/)
 - [Game Rules Challenge](./gameRulesChallenge/)
+- [Guided Animal Project](./Guided-project-branching-looping-CSharp-main/)
 
 Projects:
 
 - [Project 1 - Valid Number](./project1/)
 - [Project 2 - Valid User](./project2/)
+- [Project 3 - Substring](./project3/)
