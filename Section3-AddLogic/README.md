@@ -24,3 +24,5 @@ Lessons/Practice Challenges:
 - [Game Rules Challenge](./gameRulesChallenge/)
 
 Projects:
+
+- [Project 1 - Valid Number](./project1/)
