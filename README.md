@@ -17,17 +17,17 @@ Welcome to my C# course repository! This repository contains my projects, lesson
 Topics:
 
 - Console.WriteLine()
-- Basic string formatting
-- Basic operations
+- basic string formatting
+- basic operations
 
 ## Create and Run Simple C# Console Applications
 
 Topics:
 
-- Configure VS code
+- configure VS code
 - if/else/else if statements
-- Arrays/Length property/foreach
-- Readable code/naming conventions
+- arrays/Length property/foreach
+- readable code/naming conventions
 
 Lessons/Practice Challenges:
 
@@ -45,9 +45,9 @@ Project:
 
 Topics:
 
-- Boolean expressions
-- Conditional operator ?:
-- Variable scope
+- boolean expressions
+- conditional operator ?:
+- variable scope
 - switch-case construct
 - for loops
 - do-while/while statements
@@ -78,6 +78,10 @@ Projects:
 ## Work with Variable Data in C# Console Applications
 
 Topics:
+- value types/reference types
+- integral types/floating point types
+- new keyword
+- choosing a data type
 
 Lessons/Practice Challenges:
 
