@@ -86,6 +86,7 @@ Topics:
 - casting operator
 - conversion methods to change data type
 - TryParse() method
+- helper methods (.Join(), .Split(), .Reverse(), .Sort())
 
 Lessons/Practice Challenges:
 
@@ -95,6 +96,7 @@ Lessons/Practice Challenges:
 - [Math Operations Challenge](./Section4-VariableData/mathOperationsChallenge/)
 - [Helper Methods Practice](./Section4-VariableData/helperMethodsPractice/)
 - [Reverse Words Challenge](./Section4-VariableData/reverseWordChallenge/)
+- [Parse String Challenge](./Section4-VariableData/parseStringChallenge/)
 
 Projects:
 
