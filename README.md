@@ -78,12 +78,16 @@ Projects:
 ## Work with Variable Data in C# Console Applications
 
 Topics:
+
 - value types/reference types
 - integral types/floating point types
 - new keyword
 - choosing a data type
 
 Lessons/Practice Challenges:
+
+- [Choosing the correct data type](./Section4-VariableData/integralTypesPractice/)
+
 
 Projects:
 
