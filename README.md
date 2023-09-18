@@ -83,6 +83,9 @@ Topics:
 - integral types/floating point types
 - new keyword
 - choosing a data type
+- casting operator
+- conversion methods to change data type
+- TryParse() method
 
 Lessons/Practice Challenges:
 
