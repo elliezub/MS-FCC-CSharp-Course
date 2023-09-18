@@ -90,7 +90,9 @@ Topics:
 Lessons/Practice Challenges:
 
 - [Choosing the correct data type](./Section4-VariableData/integralTypesPractice/)
-
+- [Integral Types Practice](./Section4-VariableData/integralTypesPractice/)
+- [Combine String Array Challenge](./Section4-VariableData/)
+- [Math Operations Challenge](./Section4-VariableData/mathOperationsChallenge/)
 
 Projects:
 
