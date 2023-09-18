@@ -93,6 +93,8 @@ Lessons/Practice Challenges:
 - [Integral Types Practice](./Section4-VariableData/integralTypesPractice/)
 - [Combine String Array Challenge](./Section4-VariableData/)
 - [Math Operations Challenge](./Section4-VariableData/mathOperationsChallenge/)
+- [Helper Methods Practice](./Section4-VariableData/helperMethodsPractice/)
+- [Reverse Words Challenge](./Section4-VariableData/reverseWordChallenge/)
 
 Projects:
 
