@@ -108,6 +108,7 @@ Lessons/Practice Challenges:
 - [IndexOf() Practice](./Section4-VariableData/indexOfPractice/)
 - [IndexOfAny() Practice](./Section4-VariableData/indexOfAnyPractice/)
 - [Remove() Replace() Practice](./Section4-VariableData/removeReplacePractice/)
+- [Extract, replace and remove Challenge](./Section4-VariableData/removeReplaceChallenge/)
 
 Projects:
 
