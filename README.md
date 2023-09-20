@@ -87,6 +87,8 @@ Topics:
 - conversion methods to change data type
 - TryParse() method
 - helper methods (.Join(), .Split(), .Reverse(), .Sort())
+- string interpolation
+- composite formatting/formatting currency/numbers
 
 Lessons/Practice Challenges:
 
@@ -97,6 +99,8 @@ Lessons/Practice Challenges:
 - [Helper Methods Practice](./Section4-VariableData/helperMethodsPractice/)
 - [Reverse Words Challenge](./Section4-VariableData/reverseWordChallenge/)
 - [Parse String Challenge](./Section4-VariableData/parseStringChallenge/)
+- [Alphanumeric Data Practice](./Section4-VariableData/alphanumericDataPractice/)
+- [String Interpolation Practice](./Section4-VariableData/stringPractice/)
 
 Projects:
 
