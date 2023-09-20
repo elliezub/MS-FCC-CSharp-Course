@@ -109,6 +109,7 @@ Lessons/Practice Challenges:
 - [IndexOfAny() Practice](./Section4-VariableData/indexOfAnyPractice/)
 - [Remove() Replace() Practice](./Section4-VariableData/removeReplacePractice/)
 - [Extract, replace and remove Challenge](./Section4-VariableData/removeReplaceChallenge/)
+- [Guided Variable Data Project](./Section4-VariableData/Guided-project-Work-with-variable-data-in-CSharp-main/Starter/Program.cs)
 
 Projects:
 
