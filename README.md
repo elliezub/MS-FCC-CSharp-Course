@@ -89,6 +89,7 @@ Topics:
 - helper methods (.Join(), .Split(), .Reverse(), .Sort())
 - string interpolation
 - composite formatting/formatting currency/numbers
+- IndexOf(), Substring() methods
 
 Lessons/Practice Challenges:
 
@@ -103,6 +104,7 @@ Lessons/Practice Challenges:
 - [String Interpolation Practice](./Section4-VariableData/stringPractice/)
 - [Padding and Alignment Practice](./Section4-VariableData/paddingPractice/)
 - [String Interpolation Challenge](./Section4-VariableData/stringChallenge/)
+- [IndexOf() Practice](./Section4-VariableData/indexOfPractice/)
 
 Projects:
 
