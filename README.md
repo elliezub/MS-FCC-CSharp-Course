@@ -90,6 +90,7 @@ Topics:
 - string interpolation
 - composite formatting/formatting currency/numbers
 - IndexOf(), Substring() methods
+- LastIndexOf(), IndexOfAny()
 
 Lessons/Practice Challenges:
 
@@ -105,6 +106,7 @@ Lessons/Practice Challenges:
 - [Padding and Alignment Practice](./Section4-VariableData/paddingPractice/)
 - [String Interpolation Challenge](./Section4-VariableData/stringChallenge/)
 - [IndexOf() Practice](./Section4-VariableData/indexOfPractice/)
+- [IndexOfAny Practice](./Section4-VariableData/indexOfAnyPractice/)
 
 Projects:
 
