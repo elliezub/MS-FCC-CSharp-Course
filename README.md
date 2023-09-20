@@ -1,4 +1,4 @@
-# Microsoft FCC C# Course Repository
+# [Microsoft FCC C# Course](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/) Repository
 
 Welcome to my C# course repository! This repository contains my projects, lessons, and assignments for the Microsoft FCC C# Course.
 
