@@ -102,6 +102,7 @@ Lessons/Practice Challenges:
 - [Alphanumeric Data Practice](./Section4-VariableData/alphanumericDataPractice/)
 - [String Interpolation Practice](./Section4-VariableData/stringPractice/)
 - [Padding and Alignment Practice](./Section4-VariableData/paddingPractice/)
+- [String Interpolation Challenge](./Section4-VariableData/stringChallenge/)
 
 Projects:
 
