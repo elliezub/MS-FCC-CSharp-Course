@@ -117,11 +117,26 @@ Project:
 
 ## Create Methods in C# Console Applications
 
-Take your C# console applications to the next level by mastering the art of creating methods. Learn how to organize and modularize your code, making it more manageable, reusable, and efficient.
+Topics:
+
+- syntax of methods
+- reusable methods
+
+Lessons/Practice Challenges:
+
+- [Methods Syntax Practice](./Section5-Methods/methodsPractice/)
+
+Project:
 
 ## Debug C# Console Applications
 
 Sharpen your troubleshooting skills as you dive into the world of debugging C# console applications. Gain the ability to identify and fix issues in your code, ensuring your applications run smoothly and deliver the desired results.
+
+Topics:
+
+Lessons/Practice Challenges:
+
+Project:
 
 ## Foundational C# with Microsoft Certification Exam
 
