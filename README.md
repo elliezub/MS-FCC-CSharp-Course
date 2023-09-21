@@ -127,6 +127,7 @@ Lessons/Practice Challenges:
 - [Methods Syntax Practice](./Section5-Methods/methodsPractice/)
 - [Reusable Methods Practice](./Section5-Methods/reusableMethods/)
 - [Build code with Methods](./Section5-Methods/buildWithMethods/)
+- [Fortune Teller Challenge - Reusable Methods](./Section5-Methods/reusableMethodsChallenge/)
 
 Project:
 
