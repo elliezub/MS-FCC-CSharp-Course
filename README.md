@@ -125,6 +125,7 @@ Topics:
 Lessons/Practice Challenges:
 
 - [Methods Syntax Practice](./Section5-Methods/methodsPractice/)
+- [Reusable Methods Practice](./Section5-Methods/reusableMethods/)
 
 Project:
 
