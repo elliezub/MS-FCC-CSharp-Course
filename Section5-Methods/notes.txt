@@ -1,0 +1,3 @@
+- Its common to define methods at the end of a program
+- Method names should use Pascal case and shouldn't start with digits
+- When choosing a name make it clear the task it performs, also keep it concise
