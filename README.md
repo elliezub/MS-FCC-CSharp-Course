@@ -111,7 +111,9 @@ Lessons/Practice Challenges:
 - [Extract, replace and remove Challenge](./Section4-VariableData/removeReplaceChallenge/)
 - [Guided Variable Data Project](./Section4-VariableData/Guided-project-Work-with-variable-data-in-CSharp-main/Starter/Program.cs)
 
-Projects:
+Project:
+
+- [Final Project - Contoso Pets Application - Part 2](./Section4-VariableData/Challenge-Project-variable-data-in-CSharp-main/Starter/Program.cs)
 
 ## Create Methods in C# Console Applications
 
