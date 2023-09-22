@@ -121,6 +121,9 @@ Topics:
 
 - syntax of methods
 - reusable methods
+- method scope
+- parameters in methods
+- optional parameters
 
 Lessons/Practice Challenges:
 
@@ -131,6 +134,7 @@ Lessons/Practice Challenges:
 - [Create Methods with Parameters](./Section5-Methods/parametersPractice/)
 - [Method Scope Practice](./Section5-Methods/methodScopePractice/)
 - [Value & Reference Type Practice](./Section5-Methods/valueReferenceTypes/)
+- [Optional Parameters Practice](./Section5-Methods/optionalParameters/)
 
 Project:
 
