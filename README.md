@@ -135,6 +135,7 @@ Lessons/Practice Challenges:
 - [Method Scope Practice](./Section5-Methods/methodScopePractice/)
 - [Value & Reference Type Practice](./Section5-Methods/valueReferenceTypes/)
 - [Optional Parameters Practice](./Section5-Methods/optionalParameters/)
+- [Email Address Challenge](./Section5-Methods/emailChallenge/)
 
 Project:
 
