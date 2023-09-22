@@ -130,6 +130,7 @@ Lessons/Practice Challenges:
 - [Fortune Teller Challenge - Reusable Methods](./Section5-Methods/reusableMethodsChallenge/)
 - [Create Methods with Parameters](./Section5-Methods/parametersPractice/)
 - [Method Scope Practice](./Section5-Methods/methodScopePractice/)
+- [Value & Reference Type Practice](./Section5-Methods/valueReferenceTypes/)
 
 Project:
 
