@@ -136,6 +136,7 @@ Lessons/Practice Challenges:
 - [Value & Reference Type Practice](./Section5-Methods/valueReferenceTypes/)
 - [Optional Parameters Practice](./Section5-Methods/optionalParameters/)
 - [Email Address Challenge](./Section5-Methods/emailChallenge/)
+- [Return Type Syntax](./Section5-Methods/returnTypeSyntax/)
 
 Project:
 
