@@ -12,6 +12,6 @@ int UsdToVnd(double usd)
 
 double VndToUsd(int vnd)
 {
-    double rate - 23500;
+    double rate = 23500;
     return vnd / rate;
 }
