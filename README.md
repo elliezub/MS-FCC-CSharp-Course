@@ -142,6 +142,7 @@ Lessons/Practice Challenges:
 - [Return Numbers Practice](./Section5-Methods/returnNumbers/)
 - [Return Strings Practice](./Section5-Methods/returnStrings/)
 - [Return Booleans Practice](./Section5-Methods/returnBooleans/)
+- [Return Arrays Practice](./Section5-Methods/returnArrays/)
 
 Project:
 
