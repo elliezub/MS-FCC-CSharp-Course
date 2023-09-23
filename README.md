@@ -124,6 +124,8 @@ Topics:
 - method scope
 - parameters in methods
 - optional parameters
+- return keyword
+- 
 
 Lessons/Practice Challenges:
 
@@ -137,6 +139,7 @@ Lessons/Practice Challenges:
 - [Optional Parameters Practice](./Section5-Methods/optionalParameters/)
 - [Email Address Challenge](./Section5-Methods/emailChallenge/)
 - [Return Type Syntax](./Section5-Methods/returnTypeSyntax/)
+- [Return Numbers Practice](./Section5-Methods/returnNumbers/)
 
 Project:
 
