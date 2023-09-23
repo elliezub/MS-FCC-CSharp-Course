@@ -15,3 +15,4 @@ double VndToUsd(int vnd)
     double rate = 23500;
     return vnd / rate;
 }
+

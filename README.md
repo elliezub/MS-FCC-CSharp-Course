@@ -140,6 +140,7 @@ Lessons/Practice Challenges:
 - [Email Address Challenge](./Section5-Methods/emailChallenge/)
 - [Return Type Syntax](./Section5-Methods/returnTypeSyntax/)
 - [Return Numbers Practice](./Section5-Methods/returnNumbers/)
+- [Return Strings Practice](./Section5-Methods/returnStrings/)
 
 Project:
 
