@@ -10,7 +10,7 @@ RSVP("Noor", 4, inviteOnly: false);
 RSVP("Jonte", 2, "Stone fruit", false);
 ShowRSVPs();
 
-void RSVP(string name, int partySize, string allergies, bool inviteOnly)
+void RSVP(string name, int partySize = 1, string allergies = "none", bool inviteOnly = false)
 {
     if (inviteOnly)
     {
