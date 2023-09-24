@@ -143,6 +143,7 @@ Lessons/Practice Challenges:
 - [Return Strings Practice](./Section5-Methods/returnStrings/)
 - [Return Booleans Practice](./Section5-Methods/returnBooleans/)
 - [Return Arrays Practice](./Section5-Methods/returnArrays/)
+- [Dice Game Challenge]()
 
 Project:
 
