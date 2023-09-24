@@ -125,7 +125,6 @@ Topics:
 - parameters in methods
 - optional parameters
 - return keyword
-- 
 
 Lessons/Practice Challenges:
 
@@ -148,6 +147,7 @@ Lessons/Practice Challenges:
 Project:
 
 - [Petting Zoo Project](./Section5-Methods/pettingZooProject/Program.cs)
+- [Final Project - Mini Game]()
 
 ## Debug C# Console Applications
 
