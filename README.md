@@ -147,7 +147,7 @@ Lessons/Practice Challenges:
 Project:
 
 - [Petting Zoo Project](./Section5-Methods/pettingZooProject/Program.cs)
-- [Final Project - Mini Game]()
+- [Final Project - Mini Game](./Section5-Methods/Challenge-project-Create-methods-in-CSharp-main/Starter/Program.cs)
 
 ## Debug C# Console Applications
 
