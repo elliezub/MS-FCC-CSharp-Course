@@ -143,9 +143,11 @@ Lessons/Practice Challenges:
 - [Return Strings Practice](./Section5-Methods/returnStrings/)
 - [Return Booleans Practice](./Section5-Methods/returnBooleans/)
 - [Return Arrays Practice](./Section5-Methods/returnArrays/)
-- [Dice Game Challenge]()
+- [Dice Game Challenge](./Section5-Methods/diceGameChallenge/)
 
 Project:
+
+- [Petting Zoo Project](./Section5-Methods/pettingZooProject/Program.cs)
 
 ## Debug C# Console Applications
 
