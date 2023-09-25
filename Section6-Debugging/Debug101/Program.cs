@@ -14,7 +14,7 @@ foreach (string name in names)
     else if (name == "Andrew")
         messageText = AndrewMessage();
     else if (name == "AllGreetings")
-    {76
+    {
         messageText = SophiaMessage();
         messageText = messageText + "\n\r" + AndrewMessage();
     }

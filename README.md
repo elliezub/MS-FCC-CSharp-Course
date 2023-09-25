@@ -155,9 +155,15 @@ Topics:
 - exceptions
 - debugging tools
 - using breakpoints
-- 
+- monitor variable state
+- CALL STACK section
+- WATCH expression
 
 Lessons/Practice Challenges:
+
+- [Debug 101](./Section6-Debugging/Debug101/)
+- [Breakpoint Practice](./Section6-Debugging/breakpointPractice/)
+- [Monitor Variables](./Section6-Debugging/monitorVariables/)
 
 Project:
 
