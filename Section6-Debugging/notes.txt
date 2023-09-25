@@ -1,0 +1,24 @@
+exceptions:
+In C#, errors in the program at runtime are propagated through the program by 
+using a mechanism called exceptions. Exceptions are thrown by code that encounters 
+an error and caught by code that can correct the error. Exceptions can be thrown 
+by the .NET runtime or by code in a program. Exceptions are represented by classes 
+derived from Exception. Each class identifies the type of exception and contains 
+properties that have details about the exception.
+
+The C# debugger for Visual Studio Code also supports Hit Count breakpoints 
+and Logpoints.
+
+A 'hit count' breakpoint can be used to specify the number of times that 
+a breakpoint must be encountered before it will 'break' execution. You 
+can specify a hit count value when creating a new breakpoint (with the Add 
+Conditional Breakpoint action) or when modifying an existing one (with the 
+Edit Condition action). In both cases, an inline text box with a dropdown 
+menu opens where you can enter the hit count value.
+
+A 'Logpoint' is a variant of a breakpoint that does not "break" into the 
+debugger but instead logs a message to the console. Logpoints are especially 
+useful for injecting logging while debugging production environments that cannot 
+be paused or stopped. A Logpoint is represented by a "diamond" shaped icon 
+rather than a filled circle. Log messages are plain text but can include 
+expressions to be evaluated within curly braces ('{}').
