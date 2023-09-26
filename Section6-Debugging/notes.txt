@@ -44,3 +44,12 @@ less than zero or outside the bounds of the array.
 to a derived type fails at runtime.
 - NullReferenceException: Thrown when an attempt is made to reference an object whose value is null.
 - OverflowException: Thrown when an arithmetic operation in a checked context overflows.
+
+Common exception types:
+- ArgumentException
+- InvalidOperationException
+- NotSupportedException
+- IOException
+- FormatException
+
+Use new keyword to create a new instance of an exception

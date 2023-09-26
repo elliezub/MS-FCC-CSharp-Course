@@ -158,8 +158,9 @@ Topics:
 - monitor variable state
 - CALL STACK section
 - WATCH expression
-- exception handling 
-- 
+- exception handling (try-catch)
+- specific exceptions
+- throw keyword
 
 Lessons/Practice Challenges:
 
@@ -169,6 +170,8 @@ Lessons/Practice Challenges:
 - [Debugger Challenge](./Section6-Debugging/debuggerChallenge/)
 - [Exception examples](./Section6-Debugging/exceptionPractice/)
 - [Implement try-catch](./Section6-Debugging/tryCatchPractice/)
+- [Specific Exception Types Challenge](./Section6-Debugging/specificExceptionTypes/)
+-[]
 
 Project:
 
