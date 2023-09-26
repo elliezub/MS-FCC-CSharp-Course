@@ -88,7 +88,7 @@
 
 // catch separate exception types in a code block
 
-string[] inputValues = new string[]{"three", "9999999999", "0", "2"};
+string[] inputValues = new string[] { "three", "9999999999", "0", "2" };
 
 foreach (string inputValue in inputValues)
 {
