@@ -10,7 +10,7 @@ Welcome to my C# course repository! This repository contains my projects, lesson
 4. [Work with Variable Data in C# Console Applications](#work-with-variable-data-in-c-console-applications)
 5. [Create Methods in C# Console Applications](#create-methods-in-c-console-applications)
 6. [Debug C# Console Applications](#debug-c-console-applications)
-7. [Foundational C# with Microsoft Certification Exam](#foundational-c-with-microsoft-certification)
+7. [Foundational C# with Microsoft Certification](#foundational-c-with-microsoft-certification)
 
 ## Write Your First Code Using C#
 
