@@ -167,6 +167,8 @@ Lessons/Practice Challenges:
 - [Breakpoint Practice](./Section6-Debugging/breakpointPractice/)
 - [Monitor Variables](./Section6-Debugging/monitorVariables/)
 - [Debugger Challenge](./Section6-Debugging/debuggerChallenge/)
+- [Exception examples](./Section6-Debugging/exceptionPractice/)
+- [Implement try-catch](./Section6-Debugging/tryCatchPractice/)
 
 Project:
 
