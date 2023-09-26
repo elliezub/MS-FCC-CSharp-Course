@@ -171,11 +171,13 @@ Lessons/Practice Challenges:
 - [Exception examples](./Section6-Debugging/exceptionPractice/)
 - [Implement try-catch](./Section6-Debugging/tryCatchPractice/)
 - [Specific Exception Types Challenge](./Section6-Debugging/specificExceptionTypes/)
--[]
+- [Guided Debugging Project - Cash Register](./Section6-Debugging/Guided-project-debugging-CSharp-main/GuidedProject/Starter/Program.cs)
 
 Project:
 
-## Foundational C# with Microsoft Certification Exam
+- [Debugging Project]
+
+## Foundational C# with Microsoft Certification Certification
 
 ## Usage
 
