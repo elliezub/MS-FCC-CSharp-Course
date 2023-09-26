@@ -164,6 +164,7 @@ Lessons/Practice Challenges:
 - [Debug 101](./Section6-Debugging/Debug101/)
 - [Breakpoint Practice](./Section6-Debugging/breakpointPractice/)
 - [Monitor Variables](./Section6-Debugging/monitorVariables/)
+- [Debugger Challenge](./Section6-Debugging/debuggerChallenge/)
 
 Project:
 
