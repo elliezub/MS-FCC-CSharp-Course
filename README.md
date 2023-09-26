@@ -158,6 +158,8 @@ Topics:
 - monitor variable state
 - CALL STACK section
 - WATCH expression
+- exception handling 
+- 
 
 Lessons/Practice Challenges:
 

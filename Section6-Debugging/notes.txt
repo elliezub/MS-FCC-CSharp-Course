@@ -22,3 +22,25 @@ useful for injecting logging while debugging production environments that cannot
 be paused or stopped. A Logpoint is represented by a "diamond" shaped icon 
 rather than a filled circle. Log messages are plain text but can include 
 expressions to be evaluated within curly braces ('{}').
+
+Exception notes:
+common exception handling scenarios
+- user input
+- data processing/computations
+- file input/output operations
+- database operations
+- network communication
+
+a callstack is like a tower of blocks
+
+Compiler generated exceptions: 
+- ArrayTypeMismatchException: Thrown when an array can't store a given element because the actual 
+type of the element is incompatible with the actual type of the array.
+- DivideByZeroException: Thrown when an attempt is made to divide an integral value by zero.
+- FormatException: Thrown when the format of an argument is invalid.
+- IndexOutOfRangeException: Thrown when an attempt is made to index an array when the index is 
+less than zero or outside the bounds of the array.
+- InvalidCastException: Thrown when an explicit conversion from a base type to an interface or 
+to a derived type fails at runtime.
+- NullReferenceException: Thrown when an attempt is made to reference an object whose value is null.
+- OverflowException: Thrown when an arithmetic operation in a checked context overflows.
