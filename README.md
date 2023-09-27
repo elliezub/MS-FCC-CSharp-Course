@@ -152,6 +152,7 @@ Project:
 ## Debug C# Console Applications
 
 Topics:
+
 - exceptions
 - debugging tools
 - using breakpoints
@@ -175,7 +176,7 @@ Lessons/Practice Challenges:
 
 Project:
 
-- [Debugging Project]
+- [Debugging Project](./Section6-Debugging/Challenge-project-debugging-CSharp-main/ChallengeProject/Starter/Program.cs)
 
 ## Foundational C# with Microsoft Certification
 
