@@ -180,6 +180,8 @@ Project:
 
 ## Foundational C# with Microsoft Certification
 
+![Screenshot 2023-09-27 164643](https://github.com/elliezub/MS-FCC-CSharp-Course/assets/112726692/c72a63e3-aef6-4dac-b169-86aadeff8606)
+
 ## Usage
 
 Each folder in this repository represents a different lesson or project. Navigate to the respective folder to view the code and its associated README (if available) for more details.
